@@ -50,6 +50,6 @@ Estou cursando Sistemas de informação na cruzeiro do sul
 </div>
 <br>
 
-![](https://github.com/joicerodrigues/joicerodrigues/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/bruno22213/bruno22213/blob/output/github-contribution-grid-snake.svg)
 
 </div>
