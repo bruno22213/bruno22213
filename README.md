@@ -1,35 +1,26 @@
-### Ola me chamo Bruno Custodio👋 
-
-
-- 🌱 Cursando no momento sistemas de informações (2 Semestre)...
-- 👯 estudando sobre python,banco de dados, htmle css...
-- 😄 Pronome:ele/dele ...
-<div align=center>
-
-# Hi! My name is Joice Rodrigues.
+# Hi! My name is Bruno Custodio.
 <br>
 
 
-<img  align="right" width="180px" style="margin-top:-20px" src="https://i.ibb.co/F3c8qbV/metade.png">
+
 
 ## 🔍 Sobre mim 🔝
-Tenho 20 anos, moro em Leme/SP e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, gosto tanto do Front-End quanto do Back-End e quanto mais eu aprendo e passo raiva, mais eu amo esse novo mundo! ❤
+Tenho 25 anos, moro em Leme/SP e sou apaixonado por programação e doguinhos! Sou iniciante no universo da programação, gosto tanto do Front-End quanto do Back-End e quanto mais eu aprendo e passo raiva, mais eu amo esse novo mundo! ❤
 <br>
 
 ## 📚 Formação 🔝
-Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
-<br>
-Cursei ETIM Técnico de informática na ETEC de Leme
+Estou cursando Sistemas de informação na cruzeiro do sul
 <br>
 <br> 
 
 ## 🌱 Estou aprendendo 🔝
 <div style="display: flex">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40" height="40"  />
           
 </div>    
    
@@ -37,21 +28,13 @@ Cursei ETIM Técnico de informática na ETEC de Leme
 
 ## 🌳 Possuo conhecimento em 🔝
 <div style="display: flex">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" widht="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" widht="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40" height="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" widht="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="40" height="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
 </div>   
 <br>
-   <a href="https://github.com/joicerodrigues"> 
-   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=joicerodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicerodrigues&layout=compact&langs_count=7&theme=tokyonight" /> 
+   <a href="https://github.com/bruno22213"> 
+   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=bruno22213&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno22213&layout=compact&langs_count=7&theme=tokyonight" /> 
  
  <br> 
   <br>
@@ -61,10 +44,9 @@ Cursei ETIM Técnico de informática na ETEC de Leme
 ## 📫 Contatos 🔝
 
 <div>
-<a href="https://instagram.com/joixfr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:joicerodrigues020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joicerodrigues000" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://twitter.com/brownflxs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/bruno.custodio.311/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:custodiobruno594@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-custodio-458263169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
 <br>
 
